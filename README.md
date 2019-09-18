@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/quosi/spiced.svg?branch=master)](https://travis-ci.org/quosi/spiced)
+
 # Spiced
 
 Please find my Data Science course assessment in this repository.
